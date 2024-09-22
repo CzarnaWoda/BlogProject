@@ -8,7 +8,7 @@ In this backend project u can add blog sites(smth like profiles) and post new bl
 
 Modules list:
 
-o - PRIVATE
-+ - public
+'o' - PRIVATE
+'+' - public
 
 ![MODULES](https://i.imgur.com/cGNixgh.png)

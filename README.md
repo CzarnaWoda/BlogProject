@@ -1,4 +1,4 @@
-#BLOG PROJECT
+# BLOG PROJECT
 
 First steps in modulith Spring Boot project
 
